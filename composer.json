@@ -18,7 +18,7 @@
     },
     "require": {
         "php": ">=5.4.0",
-        "goaop/framework": "dev-use-forked-goaop-framework",
+        "goaop/framework": "dev-use-forked-php-token-reflection",
         "symfony/finder": "~2.4|~3.0"
     },
     "require-dev": {
