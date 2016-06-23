@@ -18,6 +18,7 @@
             "url": "git@github.com:genkiroid/framework.git"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.4.0",
         "goaop/framework": "dev-use-forked-php-token-reflection",
