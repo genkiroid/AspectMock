@@ -12,10 +12,12 @@
                "AspectMock": "src/"
            }
        },
-    "repositories": {
-        "type": "git",
-        "url": "git@github.com:genkiroid/framework.git"
-    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git@github.com:genkiroid/framework.git"
+        }
+    ],
     "require": {
         "php": ">=5.4.0",
         "goaop/framework": "dev-use-forked-php-token-reflection",
